@@ -1,23 +1,25 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Christopher</strong> Klamm
+description: <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/about_ukp/index.en.jsp">UKP lab, Technical University Darmstadt</a>. klamm@ukp.informatik.tu-darmstadt.de.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Christopher a doctoral researcher in Natural Language Processing @ [UKP TU Darmstadt, <i>Prof. Dr. Iryna Gurevych</i>](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/about_ukp/index.en.jsp). My work focuses on interdisciplinary research in Natural Language Processing for political and social good. I hold a master degree (2018, <i>with distinction</i>) in Computer Science (with a minor in philosophy) from the [Technical University Darmstadt](https://www.tu-darmstadt.de) (abroad semester at the University of Zurich and ETH Zurich (special student and research/ student assistant @ [Computational Social Science, <i>Prof. Dr. Helbing</i>](http://www.coss.ethz.ch))) and I hold a master degree in Governance and Public Policy from the [Technical University Darmstadt](https://www.tu-darmstadt.de) (2019).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Research Interest:
+* NLP for political and social/ public good
+* NLP enriched methods for political science (e.g., framing or argumentation analysis)
+* NLP-based (political) bias analysis
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Additional qualifications and skills (selected):
+* University Certificate “Writing Tutoring and Writing Skills Training” (2015-2017, >300h) and advanced writing qualifications ("Writing Center Management" (2017, 3 days), "Creative Writing" (2018, 3 days) and "Academic Language" (2019, 3 days)), [SchreibCenter @ TU Darmstadt](https://www.owl.tu-darmstadt.de/schreibcenter_1/index.de.jsp)
+* University Certificate "Team and presentation Training" (2014-2018, >150h), [Hochschuldidaktische Arbeitsstelle @ TU Darmstadt](https://www.hda.tu-darmstadt.de/hda/index.de.jsp)
+* University Certificates "Relaxing Coach" (2017), "Autogenous Training" (2018) and "Stress Management" (2020, >70h), [Darmstädter Akademie für Gesundheit und Sport @ TU Darmstadt](https://www.sport.tu-darmstadt.de/dienstleistungen/fortbildungen_ifs.de.jsp)

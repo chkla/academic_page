@@ -1,55 +1,12 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
+title: Public Reactions to Policy Decisions
 img: /assets/img/12.jpg
+description: We study evolution of public opinions during a crisis.
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+COVID-19 has caused enormous pressure upon policy-makers to make critical strategy decisions under hard time constraints. In times of crisis, policy-makers may use different strategies to attempt to constrain the crisis. The effect of these strategies can hardly be anticipated. Beforehand it is unclear which strategies are more effective to convince the citizens of implementing protective measures for reducing the infection rate.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project studies the evolution of public opinions in light of the events (e.g., new government measures, a high lethality rate etc.) related to COVID-19 and the respective strategies adopted by different countries and regions. We aim to answer the following question: How do citizens respond to the strategies adopted by policy-makers in different geographical areas? We rely on a large volume of unstructured data from COVID-19 Twitter posts in multiple languages, as well as on news articles, official press releases and public addresses from policy-makers.
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+https://www.ca-sg.de/COVID-19.html
