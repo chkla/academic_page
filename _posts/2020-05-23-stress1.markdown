@@ -1,7 +1,0 @@
----
-layout: post
-title: Der geordnete Start in den Tag (Stressmanagement)
-date: 2020-05-22 20:00:00
-description: Start der Reihe über Techniken aus dem Stressmanegement für Doktoranden.
----
-Der geordnete Start in den Tag.
